@@ -3,6 +3,7 @@ layout: post
 title:  "Hello World!"
 date:   2015-02-02
 categories: meta
+disqus: true
 ---
 
 I believe life is a lot like a videogame. You have certain actions you need to do, and you can have a few goals that you need to achieve to beat the game. Along the way you collect things of value, and have fun with the stuff around you, gaining experience and leveling up.
